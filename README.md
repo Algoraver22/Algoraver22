@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Problem Solver</h3>
+<h3 align="center">Frontend Developer | MERN Stack Developer
+ | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFEF&width=435&lines=Turning+Ideas+into+Code...;Frontend+Developer+%7C+React+%7C+JS+%7C+Tailwind;Open+Source+%7C+Intern+%7C+Tech+Explorer" alt="Typing SVG" />
@@ -12,24 +13,43 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently a **Frontend Intern @Certify Technology**
-- 🔭 Building real-time web apps using **React.js, TailwindCSS, React Hook Form**
-- 💬 Ask me about **React, JS, Tailwind, Git, Web Optimization**
+- 🌱 Former **Frontend Intern @Certify Technology**
+- 🌱 Learning more about: Cloud, System Design & Backend Architecture
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, Git, REST APIs, and Web Optimization**
 - ✨ Exploring full stack development with **Firebase and Node.js**
-- 📈 Passionate about clean UI/UX and performance-driven development
+- 📫 Reach me at: ak9656255@gmail.com
 
 ---
 
 ### ⚒️ Tech Stack
 <p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
 
 ---
 
@@ -50,22 +70,34 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Real-Time Feedback Form](https://github.com/AnuragShikharChaturvedi-new/real-time-feedback-form) | Built using React.js with performance optimization using React Hook Form and Context API | React, Tailwind, React Hook Form |
-| [Plant Disease Detector](https://github.com/AnuragShikharChaturvedi-new/plant-disease-detector) | Frontend UI for detecting plant diseases using image input | HTML, CSS, JavaScript |
-| [Twitter Clone](https://github.com/AnuragShikharChaturvedi-new/twitter-clone) *(WIP)* | Building a Twitter clone for practicing authentication and feed logic | React, Tailwind, Firebase |
+| 🧩 Project | 📝 Description | 🛠️ Tech Stack |
+|-----------|----------------|---------------|
+| [E-Commerce Website](https://github.com/AnuragShikharChaturvedi-new/e-commerce-site) | Full-featured online store with cart, product listings, and authentication | MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS |
+| [MERN Chat App](https://github.com/AnuragShikharChaturvedi-new/mern-chat-app) | Real-time group and private chat application with socket integration | MongoDB, Express.js, React.js, Node.js, Socket.io |
+| [Food Manor](https://github.com/AnuragShikharChaturvedi-new/food-manor) | A modern UI food ordering frontend | React.js, Tailwind CSS |
+
 
 ---
 
 ### 📫 Connect With Me
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/anurag-kumar-8b5a43259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AnuragShikharChaturvedi-new" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
-  <a href="mailto:anurag@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-8b5a43259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AnuragShikharChaturvedi-new" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ANURAG-SHIKHAR_4956/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/adikumag8b5/" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="mailto:ak9656255@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
