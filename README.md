@@ -102,7 +102,7 @@
 ---
 
 ### ✨ Personal Touch
-> *"I write code not just to build apps, but to solve real-world problems with logic and creativity."*
+*"I write code not just to build apps, but to solve real-world problems with logic and creativity."*
 
 ---
 
