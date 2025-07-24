@@ -63,9 +63,9 @@
 
 | 🧩 Project | 📝 Description | 🛠️ Tech Stack |
 |-----------|----------------|---------------|
-| [E-Commerce Website](https://github.com/Algoraver22/e-commerce-site) | Full-featured online store with cart, product listings, and authentication | MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS |
-| [MERN Chat App](https://github.com/Algoraver22/mern-chat-app) | Real-time group and private chat application with socket integration | MongoDB, Express.js, React.js, Node.js, Socket.io |
-| [Food Manor](https://github.com/Algoraver22/food-manor) | A modern UI food ordering frontend | React.js, Tailwind CSS |
+| [Employee-HR-Platform](https://github.com/Algoraver22/employee-hr-platform) | Built HR platform with employee auth, leave tracking & role management. | MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS |
+| [MERN Chat App](https://github.com/Algoraver22/meetup-lite) | Real-time event platform with user auth, group creation & chat features. | MongoDB, Express.js, React.js, Node.js, Socket.io |
+| [Food Manor](https://github.com/Algoraver22/Food_Manor) | A modern UI food ordering frontend | React.js, Tailwind CSS, Redux Toolkit, Mock API, React Router |
 
 ---
 
