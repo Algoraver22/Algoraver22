@@ -77,12 +77,6 @@
   <a href="https://github.com/Algoraver22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/ANURAG-SHIKHAR_4956/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/adikumag8b5/" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
-  </a>
   <a href="mailto:ak9656255@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
