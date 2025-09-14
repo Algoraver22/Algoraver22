@@ -2,8 +2,9 @@
 <h2 align="center">Frontend Developer | MERN Stack Developer | Problem Solver</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFEF&width=700&lines=Turning+Ideas+into+Code...;Frontend+Developer+%7C+React.js+%7C+Next.js+%7C+JavaScript+%7C+TailwindCSS;Open+Source+%7C+Intern+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&color=00FFEF&width=700&lines=Turning+Ideas+into+Code...;Frontend+Developer+%7C+React.js+%7C+Next.js+%7C+JS+%7C+Tailwind+CSS;Open+Source+%7C+Intern+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
+
 
 
 
