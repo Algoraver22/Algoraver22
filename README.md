@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Chaturvedi</h1>
-<h3 align="center">Frontend Developer | MERN Stack Developer | Problem Solver</h3>
+<h2 align="center">Frontend Developer | MERN Stack Developer | Problem Solver</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFEF&width=435&lines=Turning+Ideas+into+Code...;Frontend+Developer+%7C+React+%7C+JS+%7C+Tailwind;Open+Source+%7C+Intern+%7C+Tech+Explorer" alt="Typing SVG" />
@@ -11,17 +11,17 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 Former **Frontend Intern @Certify Technology**
-- 🌱 Learning more about: Cloud, System Design & Backend Architecture
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, Git, REST APIs, and Web Optimization**
-- ✨ Exploring full stack development with **Firebase and Node.js**
-- 📫 Reach me at: **ak9656255@gmail.com**
+## 🧑‍💻 About Me  
+- 🌱 Former **Frontend Intern @Certify Technology**  
+- 🌱 Learning more about: Cloud, System Design & Backend Architecture  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, Git, REST APIs, and Web Optimization**  
+- ✨ Exploring full stack development with **Firebase and Node.js**  
+- 📫 Reach me at: **ak9656255@gmail.com**  
 
 ---
 
-### ⚒️ Tech Stack
-<p align="left">
+## ⚒️ Tech Stack  
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Algoraver22&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Algoraver22&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180px" />
@@ -56,14 +56,14 @@
 
 ---
 
-### 🔥 Contribution Heatmap
+## 🔥 Contribution Heatmap  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Algoraver22&theme=dracula" alt="contribution graph"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 | 🧩 Project | 📝 Description | 🛠️ Tech Stack |
 |-----------|----------------|---------------|
@@ -73,31 +73,31 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-kumar-8b5a43259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
   <a href="https://github.com/Algoraver22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
   </a>
   <a href="mailto:ak9656255@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" />
   </a>
   <a href="https://myportfolio4956.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-### ✨ Personal Touch
-*"I write code not just to build apps, but to solve real-world problems with logic and creativity."*
+## ✨ Personal Touch  
+*"I write code not just to build apps, but to solve real-world problems with logic and creativity."*  
 
 ---
 
-### 😄 Fun Fact
-🎧 I debug better with lo-fi beats in the background!
+## 😄 Fun Fact  
+🎧 I debug better with lo-fi beats in the background!  
 
 ---
 
