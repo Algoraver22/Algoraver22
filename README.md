@@ -66,14 +66,20 @@
 ---
 
 ## 📈 GitHub Stats  
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Algoraver22&show_icons=true&theme=radical" height="180px" />
+  <!-- Main GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Algoraver22&show_icons=true&theme=radical&count_private=true" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Algoraver22&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180px" />
 </p>
 
 <p align="center">
+  <!-- Top Languages with JS dominance and minimal Jupyter -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algoraver22&layout=compact&theme=radical&langs_count=8" height="180px" />
 </p>
+
 ---
 
 ## 🔥 Contribution Heatmap  
