@@ -16,7 +16,7 @@
 - 🌱 Learning more about: Cloud, System Design & Backend Architecture
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind, Git, REST APIs, and Web Optimization**
 - ✨ Exploring full stack development with **Firebase and Node.js**
-- 📫 Reach me at: ak9656255@gmail.com
+- 📫 Reach me at: **ak9656255@gmail.com**
 
 ---
 
@@ -50,6 +50,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Algoraver22&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algoraver22&layout=compact&theme=radical&langs_count=8" height="180px" />
+</p>
+
 ---
 
 ### 🔥 Contribution Heatmap
@@ -70,7 +74,7 @@
 ---
 
 ### 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anurag-kumar-8b5a43259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -79,6 +83,9 @@
   </a>
   <a href="mailto:ak9656255@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://myportfolio4956.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
