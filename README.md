@@ -69,10 +69,10 @@
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Algoraver22&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=Algoraver22&theme=radical&hide_border=true" height="180px" />
-</p>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Algoraver22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Algoraver22&theme=tokyonight&hide_border=true" />
+
 
 
 
